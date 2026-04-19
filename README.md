@@ -11,13 +11,13 @@ TensorFlow • scikit-learn • pandas • NumPy • Power BI • Tableau
 🚀 Projects
 
 	•	Churn Prediction Model
-Improved recall from 54% → 79% using ANN + SMOTE
+		- Improved recall from 54% → 79% using ANN + SMOTE
 
 	•	AI Chatbot (RAG + LLMs)
-90%+ accuracy, reduced info retrieval time by 70%
+		- 90%+ accuracy, reduced info retrieval time by 70%
 
 	•	BI Dashboards
-Automated reporting, saved 10+ hrs/week
+		- Automated reporting, saved 10+ hrs/week
 
 	•	AI Automation Pipelines
-Built end-to-end workflows with n8n + APIs
+		- Built end-to-end workflows with n8n + APIs
